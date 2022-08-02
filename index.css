@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head_img{
+    padding-right: 5px;
+
+}
+
+.hi{
+    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 60px;
+    padding-top: 50px;
+    color: #505050;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+}
+.intro{
+    padding-top: 50px;
+    font-size: 50px;
+    color: #505050;
+    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.name{
+    color:rgb(100, 162, 163);
+}
+
+.whoami{
+    color: #404040;
+    padding-top: 10px;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.myskills{
+    
+    padding-top: 45px;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: crimson;
+}
+.ms_title{
+    padding-bottom: 20px;
+}
+.pl_img{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.lp-title{
+    color: crimson;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+.lp{
+    padding-top: 15px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-family: 'Sedgwick Ave', cursive;
+
+}
